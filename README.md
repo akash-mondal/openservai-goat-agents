@@ -4,7 +4,7 @@
 
 ### 1. Clone the Repository
 ```sh
-git clone <repository-url>
+git clone https://github.com/akash-mondal/openservai-goat-agents.git
 ```
 
 ### 2. Setup Allora Agent
